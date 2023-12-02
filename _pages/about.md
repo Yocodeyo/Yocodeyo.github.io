@@ -88,9 +88,3 @@ Caleb Ziems, **Minzhi Li** (equal contribution), Anthony Zhang, Diyi Yang
 - **(3) Socially Aware NLP System**
 
 
-# 💻 Journal Editorial Board Membership
-- *2022.04 - 2024.09*, [MDPI multi-journal joint topic Editor](https://www.mdpi.com/topics/S8VZUEHT3B#journals)
-- *2023.10 - now*, Youth Editorial Board of Journal of Future Foods
-
-# 📖 CV
-- *Download my CV [English](files/CV1.pdf) or [中文](files/CV2.pdf).
