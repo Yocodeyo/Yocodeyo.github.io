@@ -34,11 +34,11 @@ I like playing piano and table tennis. I also like to travel and explore the wor
 # 📝 Publications 
 
 
-## 🎙 First Author/Corresponding Author
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/07.jpg' alt="sym" width="100%"></div></div>
+## 🎙 First (Co-)Author
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/07.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**(3)**  [CoAnnotating: Uncertainty-Guided Work Allocation between Human and Large Language Models for Data Annotation](https://arxiv.org/abs/2310.15638)
+**(2)**  [CoAnnotating: Uncertainty-Guided Work Allocation between Human and Large Language Models for Data Annotation](https://arxiv.org/abs/2310.15638)
 
 **Minzhi Li**, Taiwei Shi, Caleb Ziems, Min-Yen Kan, Nancy F. Chen, Zhengyuan Liu, Diyi Yang,*
 
@@ -48,88 +48,20 @@ I like playing piano and table tennis. I also like to travel and explore the wor
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/06.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/06.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**(6)**  [Three-Dimensional Quantitative Structure and Activity Relationship of Flavones on Their Hypochlorite Scavenging Capacity](https://pubs.acs.org/doi/abs/10.1021/acs.jafc.2c03860)
+**(1)**  [Inducing Positive Perspectives with Text Reframing](https://arxiv.org/abs/2204.02952)
 
-**Yang, X.**, Wang, T., Žuvela, P., Sun, M., Xu, C., Zheng, H., Wang, X., Jing, L., Du, K., Wang, S. and Wong, M.W., Huang, D.* 
+Caleb Ziems, **Minzhi Li** (equal contribution), Anthony Zhang, Diyi Yang
 
-[<strong>*Journal of Agricultural and Food Chemistry*</strong>](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:Tyk-4Ss8FVUC) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
-- The DFT calculated mechanism revealed the catalytic role of water of mono- and di-chlorination reactions, characterized by low activation barriers, and the involvement of neutral, instead of high-energy carbocation, intermediates. 
-- Three-dimensional quantitative structure and activity relationship (3D-QSAR) combined with comparative molecular field analysis (CoMFA) and comparative molecular similarity indices analysis (CoMSIA) were reported. 
+[<strong>*ACL 2022 Main Conference*</strong>](https://arxiv.org/abs/2204.02952) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
+- We introduce a large-scale benchmark, Positive Psychology Frames, with 8,349 sentence pairs and 12,755 structured annotations to explain positive reframing in terms of six theoretically-motivated reframing strategies. Then we evaluate a set of state-of-the-art text style transfer models, and conclude by discussing key challenges and directions for future work.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/05.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-**(5)**  [Quantitative Determination of Ethylene Using a Smartphone-Based Optical Fiber Sensor (SOFS) Coupled with Pyrene-Tagged Grubbs Catalyst.](https://www.mdpi.com/2079-6374/12/5/316/htm)
 
-**Yang, X.**, Leong, J.L.K., Sun, M., Jing, L., Zhang, Y., Wang, T., Wang, S. and Huang, D.*
-
-  
-[<strong>*Biosensors*</strong>](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:Y0pCki6q_DkC) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:Y0pCki6q_DkC'></span></strong>
-- A smartphone-based optical fiber sensor (SOFS), composed of a 15 mW 365 nm laser for fluorescence signal excitation and a bifurcated fiber system for signal flow direction from probe to smartphone, was designed in this paper. 
-- The SOFS provides a rapid, compact, cost-effective solution for determination of the fruit ethylene concentration dynamic during ripening for better fruit harvest timing and postharvest management to minimize wastage.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/04.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**(4)**  [Structure and Anti-Inflammatory Activity Relationship of Ergostanes and Lanostanes in Antrodia cinnamomea](https://www.mdpi.com/2304-8158/11/13/1831/htm)
-
-**Yang, X.**, Wang, X., Lin, J., Lim, S., Cao, Y., Chen, S., Xu, P., Xu, C., Zheng, H., Fu, K.C. and Kuo, C.L. and Huang, D.*
-
-[<strong>*Foods*</strong>](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:YsMSGLbcyi4C) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:YsMSGLbcyi4C'></span></strong>
-- The absolute configurations of (25R)-antcin K,(25R)-antcin A, versisponic acid D, and (25R)-antcin C were determined by single crystal X-ray diffraction (XRD). 
-- Antcin A was shown to suppress pro-inflammatory biomolecule release via the down-regulation of iNOS and COX-2 expression through the NF-κB pathway while the mRNA levels of IL-1β, TNF-α and IL-6 were also decreased. 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2019</div><img src='images/03.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**(3)**  [A smartphone-based portable analytical system for on-site quantification of hypochlorite and its scavenging capacity of antioxidants](https://www.sciencedirect.com/science/article/abs/pii/S0925400518320872)
-
-**Yang, X.**, Sun, M., Wang, T., Wong, M. W., & Huang, D.* 
-
-[<strong>*Sensors and Actuators B: Chemical*</strong>](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:9yKSN-GCB0IC'></span></strong>
-- A novel molecular probe (DMMA-IR780) which could show cross-channel color response was developed.
-- A High-throughput Smartphone-based Colorimetric Reader (HSCR) was designed and applied for signal recording.
-- An Android-based application was developed to realize convenient connection between HSCR and camera located in smartphone.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2019</div><img src='images/02.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**(2)**  [Dietary flavonoids scavenge hypochlorous acid via chlorination on A-and C-rings as primary reaction sites: Structure and reactivity relationship](https://pubs.acs.org/doi/abs/10.1021/acs.jafc.8b06689)
-
-**Yang, X.**, Wang, T., Guo, J., Sun, M., Wong, M. W., & Huang, D.* 
-
-[<strong>*Journal of agricultural and food chemistry*</strong>](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
-- The reaction products of five flavonoids (apigenin, quercetin, naringenin, ampelopsin, and epicatechin) with hypochlorous acid and found that primary chlorination reaction occurred on the A-ring (C6 or C8) and/or C-rings but not on B-rings were characterized. 
-- The hydroxyl groups in the A-ring and B-ring can enhance the scavenging capacity, whereas the C(2)C(3) double bond has a negative impact on the HClO scavenging capacity. 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2016</div><img src='images/01.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**(1)**  [A portable system for on-site quantification of formaldehyde in air based on G-quadruplex halves coupled with a smartphone reader](https://www.sciencedirect.com/science/article/abs/pii/S0956566315303468)
-
-**Yang, X.**, Wang, Y., Liu, W., Zhang, Y., Zheng, F., Wang, S., Zhang, D. and Wang, J.*
-
-[<strong>*Biosensors and Bioelectronics*</strong>](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:2osOgNQ5qMEC'></span></strong>
-- A formaldehyde sensor based on G-quadruplex-hemin DNAzyme was developed.
-- A smartphone-based colorimetric reader was designed and used to read signals.
-- This method integrates a portable formaldehyde sampling device.
-- It provides great potential for home test or on-site determination of formaldehyde in air.
-</div>
-</div>
 
 ## 🎙 Co-author
 - **(11)** Su, L., Jing, L., Zeng, X., Chen, T., Liu, H., Kong, Y., Wang, X., **Yang, X.**, Fu, C., Sun, J. and Huang, D., 2022. 3D‐Printed Prolamin Scaffolds for Cell‐based Meat Culture. Advanced Materials (2022): 2207397.
