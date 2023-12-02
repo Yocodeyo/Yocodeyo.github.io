@@ -19,9 +19,9 @@ redirect_from:
 
 I am currently a PhD student in the National University of Singapore (NUS) WING lab with research interests in human-centered and socially aware Natural Language Processing. I am fortunately supervised by [**Prof Kan Min-Yen**](https://www.comp.nus.edu.sg/~kanmy/) from NUS, [**Dr Nancy F. Chen**](https://www.a-star.edu.sg/i2r/i2r-profiles/nancychen) from ASTAR, and [**Prof Shafiq Joty**](https://raihanjoty.github.io/) from Salesforce. I am also having great collaborations with SALT Lab under the advice of [**Prof Diyi Yang**](https://cs.stanford.edu/~diyiy/) from Stanford University. I graduated with a bachelor in NUS.
 
-My research interest includes **(1) Human-Centric and Data-Centric NLP**, **(2) NLP for Social Good** and **（4）Socially Aware NLP System**. I have published papers at the top tier NLP conferences like ACL and EMNLP.
+My research interests include **(1) Human-Centric and Data-Centric NLP**, **(2) NLP for Social Good** and **（3）Socially Aware NLP System**. I have published papers at the top tier NLP conferences like ACL and EMNLP.
 
-I like playing piano and table tennis. I also like to travel and explore the world/good food!
+I like playing piano and table tennis. I also like to travel and explore the world/good food!😋
 
 
 # 🔥 News
