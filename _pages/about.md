@@ -35,7 +35,7 @@ I like playing piano and table tennis. I also like to travel and explore the wor
 
 
 ## 🎙 First (Co-)Author
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/07.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/07.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **(2)**  [CoAnnotating: Uncertainty-Guided Work Allocation between Human and Large Language Models for Data Annotation](https://arxiv.org/abs/2310.15638)
@@ -48,7 +48,7 @@ I like playing piano and table tennis. I also like to travel and explore the wor
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/06.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/06.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **(1)**  [Inducing Positive Perspectives with Text Reframing](https://arxiv.org/abs/2204.02952)
