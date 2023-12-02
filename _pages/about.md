@@ -38,17 +38,13 @@ I like playing piano and table tennis. I also like to travel and explore the wor
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/07.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**(7)**  [Oxygen Mediated Oxidative Couplings of Flavones in Alkaline Water](https://www.nature.com/articles/s41467-022-34123-w#peer-review)
+**(3)**  [CoAnnotating: Uncertainty-Guided Work Allocation between Human and Large Language Models for Data Annotation](https://arxiv.org/abs/2310.15638)
 
-**Yang, X.**, Lim, S., Lin J., Wu J., Tang H., Zhao F., Liu, F., Sun, C., Shi X., Kuang, Y., Toy, J., Du, K., Zhang, Y., Wang, X., Sun, M., Song, Z., Wang, T., Wu, J., K. N. Houk, Huang, D.,*
+**Minzhi Li**, Taiwei Shi, Caleb Ziems, Min-Yen Kan, Nancy F. Chen, Zhengyuan Liu, Diyi Yang,*
 
-[<strong>*Nature Communication*</strong>](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:roLk4NBRz8UC) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
+[<strong>*EMNLP Main Conference*</strong>](https://arxiv.org/abs/2310.15638) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
 
-- This work was featured in **[Nature Communications Editors’ Highlights](https://www.nature.com/collections/wdzvyhgxft)**.
-- This work was highlighted by [EurekAlert!](https://www.eurekalert.org/news-releases/971944), [Science Daily](https://www.sciencedaily.com/releases/2022/11/221121105222.htm), [Phys.org](https://phys.org/news/2022-11-catalyst-free-oxidative-coupling-flavones-food.html), [Mirage news]( https://www.miragenews.com/catalyst-free-oxidative-coupling-of-flavones-in-900393/), [Verve Times](https://vervetimes.com/catalyst-free-oxidative-coupling-of-flavones-in-food-grade-alkaline-water-sciencedaily/), [Crumpe](https://www.crumpe.com/2022/11/couplage-oxydatif-sans-catalyseur-de-flavones-dans-une-eau-alcaline-de-qualite-alimentaire/), [Xmol](https://www.x-mol.com/news/829017), [食品放大镜](https://mp.weixin.qq.com/s/EKu0Eg8_8lZ2YmZRLoiyNw), [NUSRI](https://mp.weixin.qq.com/s/mVqKRkp90JdiGTEdw707Jw), [BLOCK71 Chongqing](https://mp.weixin.qq.com/s/JibBN06ZGgw23Mn7o5XI_Q), and [科学材料站](https://mp.weixin.qq.com/s/da4ThJLTc87IsFgTmDp-_g).
-- This work was reported by [Faculty of Science](https://www.science.nus.edu.sg/blog/2022/11/21/catalyst-free-oxidative-coupling-of-flavones-in-food-grade-alkaline-water/), National University of Singapore.
-- We accomplished a one-step and food-grade synthesis of flavonoid oligomers which have great potential in combating diabetes. 
-- Our reaction opens up a green and sustainable way to synthesize flavonoid dimers and oligomer using the readily available monomeric flavonoids isolated from biomass and exploiting their use for health promotion and treatment of diseases.
+- This work propose CoAnnotating, a novel paradigm for Human-LLM co-annotation of unstructured texts at scale. Under this framework, we utilize uncertainty to estimate LLMs' annotation capability. Our empirical study shows CoAnnotating to be an effective means to allocate work from results on different datasets, with up to 21% performance improvement over random baseline.
 </div>
 </div>
 
