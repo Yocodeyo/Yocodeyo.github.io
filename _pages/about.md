@@ -17,28 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral associate in Koch Institute for Integrative Cancer Research at MIT. My current research task is AI-powered micro-nutrients delivery system for human health.
+I am currently a a PhD student in the National University of Singapore (NUS) WING lab with research interests in human-centered and socially aware Natural Language Processing. I am fortunately supervised by [**Prof Kan Min-Yen**](https://www.comp.nus.edu.sg/~kanmy/) from NUS, [**Dr Nancy F. Chen**](https://www.a-star.edu.sg/i2r/i2r-profiles/nancychen) from ASTAR, and [**Prof Shafiq Joty**](https://raihanjoty.github.io/) from Salesforce. I am also having great collaborations with SALT Lab under the advice of Prof Diyi Yang from Stanford University. I graduated with a bachelor in NUS.
 
-I graduated from Northwest A&F University with a bachelor’s degree in 2015, and my supervisor for final year project is [**Dr. Wang Jianlong**](https://www.researchgate.net/profile/Jianlong-Wang-5). After that, I went to National University of Singapore for my Ph.D. degree, advised by [**Dr. Huang Dejian**](https://www.fst.nus.edu.sg/our_people/faculty-members/huang-dejian/). In my research journey in Singapore, I also have deep collaboration with [**Dr. Houk**](https://www.chem.ucla.edu/houk/) from UCLA, [**Dr. Liu Fang**](https://cos.njau.edu.cn/info/1074/2548.htm) from Nanjing Agricultural University and [**Dr. Sun Chenghua**](https://www.swinburne.edu.au/research/our-research/access-our-research/find-a-researcher-or-supervisor/researcher-profile/?id=chenghuasun) from Swinburne University of Technology. [**Dr. Liu Xiaogang**](https://liuxg.science.nus.edu.sg/head/), [**Dr. Wu Jie**](https://www.wujiegroupnus.com/team), [**Dr. Chi Chunyan**](https://chichunyan.webs.com/) were my thesis advisory committee members and gave me a lot of valuable guidances on my research.
+My research interest includes **(1) Human-Centric and Data-Centric NLP**, **(2) NLP for Social Good** and **（4）Socially Aware NLP System**. I have published papers at the top tier NLP conferences like ACL and EMNLP.
 
-My research interest includes **(1) Synthesis of bioactive compounds**, **(2) Nature products**, **(3) luminescent molecular and nanoprobes** and **（4）Chemical principles of antioxidants**. I have published papers at the top research journals including <strong>*Nature Communication*, *Advanced Materials*, *Biosensors and Bioelectronics*, *Sensors and Actuators B: Chemical*, *Green Chemistry*, *Organic letters*, *Journal of Agricultural and Food Chemistry* </strong>et al., with total <a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ'>google scholar citations <strong><span id='total_cit'>200</span></strong></a>(<a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-I was nominated as topic editor for muti-journal topic, [Bioactive Compounds with Application Potentials in Nutraceuticals and Nutricosmetics: Focus on Mechanism of Action and Application Science](https://www.mdpi.com/topics/S8VZUEHT3B#journals). This topic is now open for submission.
-
-I like basketball and guitar. I formed a band, *Handsome Boys*, as a lead guitarist when I was an undergraduate student. And we even have an invited performances in our graduation ceremony.
+I like playing piano and table tennis. I also like to travel and explore the world/good food!
 
 
 # 🔥 News
-- *2023.09*: I start my new work as a postdoctoral associate in Koch Institute for Integrative Cancer Research at MIT.
-- *2022.09*: &nbsp;🎉🎉 Our paper (as first author) was accepted by *Nature Communication*. Special thanks to Dr. Huang’s supervise, and Dr. Houk and Dr. Liu’s cooperation in mechanism calculation, and Dr. Wu Jie for his valuable comments on synthesis.
-- *2022.06*: &nbsp;🎉🎉 Our paper (as first author) was accepted by *Journal of Agricultural and Food Chemistry*.
-- *2022.05*: &nbsp;🎉🎉 Our paper (as first author) was accepted by *Foods*.
-- *2022.03*: &nbsp;🎉🎉 Our paper (as first author) was accepted by *Biosensors*.
-- *2021.07*: &nbsp;🎉🎉 I got my Ph.D. degree!
-- *2021.03*: &nbsp;🎉🎉 I passed my thesis defence!
-- *2019.07*: &nbsp;🎉🎉 Our paper (as first author) was accepted by *Sensors and Actuators B: Chemical*. Special thanks to Dr. Sun for his guidance in synthesis of molecule probe.
-- *2019.01*: &nbsp;🎉🎉Our paper was accepted by *Journal of agricultural and food chemistry*
-- *2016.06*: &nbsp;🎉🎉 My first paper was accepted by *Biosensors and Bioelectronics*.
+- *2023.10*: &nbsp;🎉🎉 I completed my PhD qualification exam!
+- *2023.10*: &nbsp;🎉🎉 Our paper (as first author) CoAnnotating: Uncertainty-Guided Work Allocation between Human and Large Language Models for Data Annotation was accepted by *EMNLP 2023 Main Conference*.
+- *2023.10*: &nbsp;🎉🎉 Our paper (as collaborator) Retrieving Multimodal Information for Augmented Generation: A Survey was accepted by *EMNLP 2023 Findings*.
+- *2022.03*: &nbsp;🎉🎉 Our paper (as first co-author) Inducing Positive Perspectives with Text Reframing was accepted by *ACL 2022 Main Conference*. We also received **Outstanding Paper Award**!
 
 
 # 📝 Publications 
