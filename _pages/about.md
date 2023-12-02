@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a a PhD student in the National University of Singapore (NUS) WING lab with research interests in human-centered and socially aware Natural Language Processing. I am fortunately supervised by [**Prof Kan Min-Yen**](https://www.comp.nus.edu.sg/~kanmy/) from NUS, [**Dr Nancy F. Chen**](https://www.a-star.edu.sg/i2r/i2r-profiles/nancychen) from ASTAR, and [**Prof Shafiq Joty**](https://raihanjoty.github.io/) from Salesforce. I am also having great collaborations with SALT Lab under the advice of [**Prof Diyi Yang**](https://cs.stanford.edu/~diyiy/) from Stanford University. I graduated with a bachelor in NUS.
+I am currently a PhD student in the National University of Singapore (NUS) WING lab with research interests in human-centered and socially aware Natural Language Processing. I am fortunately supervised by [**Prof Kan Min-Yen**](https://www.comp.nus.edu.sg/~kanmy/) from NUS, [**Dr Nancy F. Chen**](https://www.a-star.edu.sg/i2r/i2r-profiles/nancychen) from ASTAR, and [**Prof Shafiq Joty**](https://raihanjoty.github.io/) from Salesforce. I am also having great collaborations with SALT Lab under the advice of [**Prof Diyi Yang**](https://cs.stanford.edu/~diyiy/) from Stanford University. I graduated with a bachelor in NUS.
 
 My research interest includes **(1) Human-Centric and Data-Centric NLP**, **(2) NLP for Social Good** and **（4）Socially Aware NLP System**. I have published papers at the top tier NLP conferences like ACL and EMNLP.
 
@@ -25,7 +25,7 @@ I like playing piano and table tennis. I also like to travel and explore the wor
 
 
 # 🔥 News
-- *2023.10*: &nbsp;🎉🎉 I completed my PhD qualification exam!
+- *2023.10*: &nbsp;🎉🎉 I completed my PhD Qualification Exam!
 - *2023.10*: &nbsp;🎉🎉 Our paper (as first author) CoAnnotating: Uncertainty-Guided Work Allocation between Human and Large Language Models for Data Annotation was accepted by *EMNLP 2023 Main Conference*.
 - *2023.10*: &nbsp;🎉🎉 Our paper (as collaborator) Retrieving Multimodal Information for Augmented Generation: A Survey was accepted by *EMNLP 2023 Findings*.
 - *2022.03*: &nbsp;🎉🎉 Our paper (as first co-author) Inducing Positive Perspectives with Text Reframing was accepted by *ACL 2022 Main Conference*. We also received **Outstanding Paper Award**!
