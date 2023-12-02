@@ -64,50 +64,28 @@ Caleb Ziems, **Minzhi Li** (equal contribution), Anthony Zhang, Diyi Yang
 
 
 ## 🎙 Co-author
-- **(11)** Su, L., Jing, L., Zeng, X., Chen, T., Liu, H., Kong, Y., Wang, X., **Yang, X.**, Fu, C., Sun, J. and Huang, D., 2022. 3D‐Printed Prolamin Scaffolds for Cell‐based Meat Culture. Advanced Materials (2022): 2207397.
+- **(1)** Ruochen Zhao, Hailin Chen, Weishi Wang, Fangkai Jiao, Xuan Long Do, Chengwei Qin, Bosheng Ding, Xiaobao Guo, Minzhi Li, Xingxuan Li, Shafiq Joty, 2023. Retrieving Multimodal Information for Augmented Generation: A Survey. EMNLP Findings (2023): 2207397.
 
-- **(10)** Wang, X., Cao, Y., Chen, S., Lin, J., **Yang, X.** and Huang, D., (2022). Structure–Activity Relationship (SAR) of Flavones on Their Anti-Inflammatory Activity in Murine Macrophages in Culture through the NF-κB Pathway and c-Src Kinase Receptor. Journal of Agricultural and Food Chemistry.
-
-- **(9)** Wang, X., Cao, Y., Jing, L., Chen, S., Leng, B., **Yang, X.**, ... & Huang, D. (2021). Three-Dimensional RAW264. 7 Cell Model on Electrohydrodynamic Printed Poly (ε-Caprolactone) Scaffolds for In Vitro Study of Anti-Inflammatory Compounds. ACS Applied Bio Materials, 4(11), 7967-7978.
-
-- **(8)** Sun, M., Wang, T., **Yang, X.**, Yu, H., Wang, S., & Huang, D. (2021). Facile mitochondria localized fluorescent probe for viscosity detection in living cells. Talanta, 225, 121996.
-
-- **(7)** Zhang, Y., **Yang, X.**, Wu, J., & Huang, D. (2020). Aerobic C–H Functionalization Using Pyrenedione as the Photocatalyst. Synthesis, 52(17), 2512-2520.
-
-- **(6)** Zhang, Y., **Yang, X.**, Tang, H., Liang, D., Wu, J., & Huang, D. (2020). Pyrenediones as versatile photocatalysts for oxygenation reactions with in situ generation of hydrogen peroxide under visible light. Green Chemistry. 22, 22-27
-
-- **(5)** Žuvela, P., David, J., **Yang, X.**, Huang, D., & Wong, M. W. (2019). Non-Linear Quantitative Structure–Activity Relationships Modelling, Mechanistic Study and In-Silico Design of Flavonoids as Potent Antioxidants. International journal of molecular sciences, 20(9), 2328.
-
-- **(4)** Lin, Y., **Yang, X.**, Lu, Y., Liang, D., & Huang, D. (2019). Isothiocyanates as H2S donors triggered by cysteine: Reaction mechanism and structure and activity relationship. Organic letters, 21(15), 5977-5980.
-
-- **(3)** Sun, M., **Yang, X.**, Zhang, Y., Wang, S., Wong, M. W., Ni, R., & Huang, D. (2018). Rapid and visual detection and quantitation of ethylene released from ripening fruits: the new use of Grubbs catalyst. Journal of agricultural and food chemistry, 67(1), 507-513.
-
-- **(2)** Sun, M., Krishnakumar, S., Zhang, Y., Liang, D., **Yang, X.**, Wong, M. W., ... & Huang, D. (2018). Singlet oxygen probes made simple: Anthracenylmethyl substituted fluorophores as reaction-based probes for detection and imaging of cellular 1O2. Sensors and Actuators B: Chemical, 271, 346-352.
-
-- **(1)** Liang, D., Zhang, Y., Wu, Z., Chen, Y. J., **Yang, X.**, Sun, M., & Huang, D. (2018). A near infrared singlet oxygen probe and its applications in in vivo imaging and measurement of singlet oxygen quenching activity of flavonoids. Sensors and Actuators B: Chemical, 266, 645-654.
 
 
 # 🎖 Honors and Awards
-- *2016.08* Fully Funded research scholarship for Ph.D programme, ministry of education, Singapore. 
-- *2015.06* Outstanding graduates, Northwest A&F University; Outstanding dissertation Northwest A&F University
-- *2014.6* Advanced Individual in social practice, Northwest A&F University 
-- *2013.8* Third-Grade Award in students innovative research contest competition sponsored by DuPont Nutrition & Health
-- *2013.8* Best R & D Report in students innovative research contest competition sponsored by Master Kang Tingyi International Group Holding Corp
-- *2012.6* Outstanding League Cadres, Northwest A&F University (recognition of excellent moral character and diligent work). 
-- *2011.12* First-class Scholarship (recognized as the top student for academic achievement in our university). 
-- *2011.12* President Scholarship, Merit Student.
+- *2022.08* ACIS Scholarship Award. 
+- *2022.01* 21/22 S1 Dean's List Award. 
+- *2021.01* 20/21 S1 Dean's List Award.
+- *2018.08* Science and Technology Merit Scholarship
+- *2013.11* MOE SM1 Scholarship
 
 
 # 📖 Educations
-- *2016.09 - 2021.03*, Ph.D., Department of Food Science and Technology, National University of Singapore, Singapore
-- *2011.09 - 2015.06*, B.S., Food Science and Engineering, Northwest A&F University (211 & 985), Shaanxi, China
-- *2008.09 - 2011.06*, Fuzhou No.1 High School, Fuzhou, China. 
+- *2022.08 - Present*, Ph.D., Department of Computer Science, School of Computing, National University of Singapore, Singapore
+- *2018.08 - 2022.05*, B.S., Business Analytics, School of Computing, National University of Singapore, Singapore
+- *2014.01 - 2017.11*, Dunman High School, Singapore. 
+- *2010.08 - 2013.05*, Nanjing Foreign Language School, Nanjing, China. 
 
 # 💬 Research Interest
-- **(1) Synthesis of bioactive compounds** with high values using photo-catalysts, enzymes and radical reactions.
-- **(2) Nature products** isolation, characterization and their bioactivities, including antioxidant, anti-aging, anti-virus and enzymes inhibition activities.
-- **(3) Synthesis of luminescent molecular and nanoprobes** for sensing of reactive oxygen species of biological and environmental concerns.
-- **(4）Chemical principles** behind the bioactive compounds in **food systems**.
+- **(1) Human-Centric and Data-Centric NLP**
+- **(2)  NLP for Social Good**
+- **(3) Socially Aware NLP System**
 
 
 # 💻 Journal Editorial Board Membership
