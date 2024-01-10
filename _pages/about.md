@@ -21,7 +21,7 @@ I am currently a PhD student in the National University of Singapore (NUS) WING 
 
 My research interests include **(1) Human-Centric and Data-Centric NLP**, **(2) NLP for Social Good** and **（3）Socially Aware NLP System**. I have published papers at the top tier NLP conferences like ACL and EMNLP.
 
-I like playing piano and table tennis. I also like to travel and explore the world/good food!😋
+I like playing piano and table tennis. I also like to travel and explore the world/good food!😋 Recently I'm learning magic tricks🎩
 
 
 # 🔥 News
@@ -70,9 +70,10 @@ Caleb Ziems, **Minzhi Li** (equal contribution), Anthony Zhang, Diyi Yang
 
 
 # 🎖 Honors and Awards
-- *2022.08* ACIS Scholarship Award. 
-- *2022.01* 21/22 S1 Dean's List Award. 
-- *2021.01* 20/21 S1 Dean's List Award.
+- *2024.01* Research Achievement Award
+- *2022.08* ACIS Scholarship Award
+- *2022.01* 21/22 S1 Dean's List Award
+- *2021.01* 20/21 S1 Dean's List Award
 - *2018.08* Science and Technology Merit Scholarship
 - *2013.11* MOE SM1 Scholarship
 
