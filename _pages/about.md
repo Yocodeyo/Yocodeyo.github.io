@@ -25,7 +25,8 @@ I like playing piano and table tennis. I also like to travel and explore the wor
 
 
 # 🔥 News
-- *2023.10*: &nbsp;🎉🎉 I completed my PhD Qualification Exam!
+- *2024.01*: &nbsp;🎉🎉 I received Research Achievement Award awarded by School of Computing!
+- *2023.12*: &nbsp;🎉🎉 I passed my PhD Qualification Exam!
 - *2023.10*: &nbsp;🎉🎉 Our paper (as first author) CoAnnotating: Uncertainty-Guided Work Allocation between Human and Large Language Models for Data Annotation was accepted by *EMNLP 2023 Main Conference*.
 - *2023.10*: &nbsp;🎉🎉 Our paper (as collaborator) Retrieving Multimodal Information for Augmented Generation: A Survey was accepted by *EMNLP 2023 Findings*.
 - *2022.03*: &nbsp;🎉🎉 Our paper (as first co-author) Inducing Positive Perspectives with Text Reframing was accepted by *ACL 2022 Main Conference*. We also received **Outstanding Paper Award**!
