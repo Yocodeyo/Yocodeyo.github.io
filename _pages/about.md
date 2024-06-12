@@ -37,6 +37,19 @@ I like playing piano and table tennis. I also like to travel and explore the wor
 
 
 ## 🎙 First (Co-)Author
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/08.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**(2)**  [Social Intelligence Data Infrastructure: Structuring the Present and Navigating the Future](https://arxiv.org/abs/2403.14659)
+
+**Minzhi Li**, Taiwei Shi, Caleb Ziems, Min-Yen Kan, Nancy F. Chen, Zhengyuan Liu, Diyi Yang,*
+
+[<strong>*ACL 2024*</strong>](https://arxiv.org/abs/2403.14659) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
+
+- We build a Social AI Data Infrastructure, which consists of a comprehensive social AI taxonomy and a data library of 480 NLP datasets. Our infrastructure allows us to analyze existing dataset efforts, and also evaluate language models' performance in different social intelligence aspects. Our analyses demonstrate its utility in enabling a thorough understanding of current data landscape and providing a holistic perspective on potential directions for future dataset development.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/07.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
