@@ -42,7 +42,7 @@ I like playing piano and table tennis. I also like to travel and explore the wor
 
 **(2)**  [Social Intelligence Data Infrastructure: Structuring the Present and Navigating the Future](https://arxiv.org/abs/2403.14659)
 
-**Minzhi Li**, Taiwei Shi, Caleb Ziems, Min-Yen Kan, Nancy F. Chen, Zhengyuan Liu, Diyi Yang,*
+**Minzhi Li**, Weiyan Shi, Caleb Ziems, Diyi Yang
 
 [<strong>*ACL 2024*</strong>](https://arxiv.org/abs/2403.14659) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
 
@@ -57,7 +57,7 @@ I like playing piano and table tennis. I also like to travel and explore the wor
 
 **Minzhi Li**, Taiwei Shi, Caleb Ziems, Min-Yen Kan, Nancy F. Chen, Zhengyuan Liu, Diyi Yang,*
 
-[<strong>*EMNLP Main Conference*</strong>](https://arxiv.org/abs/2310.15638) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
+[<strong>*EMNLP 2023*</strong>](https://arxiv.org/abs/2310.15638) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
 
 - This work propose CoAnnotating, a novel paradigm for Human-LLM co-annotation of unstructured texts at scale. Under this framework, we utilize uncertainty to estimate LLMs' annotation capability. Our empirical study shows CoAnnotating to be an effective means to allocate work from results on different datasets, with up to 21% performance improvement over random baseline.
 </div>
@@ -70,7 +70,7 @@ I like playing piano and table tennis. I also like to travel and explore the wor
 
 Caleb Ziems, **Minzhi Li** (equal contribution), Anthony Zhang, Diyi Yang
 
-[<strong>*ACL 2022 Main Conference*</strong>](https://arxiv.org/abs/2204.02952) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
+[<strong>*ACL 2022*</strong>](https://arxiv.org/abs/2204.02952) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
 - We introduce a large-scale benchmark, Positive Psychology Frames, with 8,349 sentence pairs and 12,755 structured annotations to explain positive reframing in terms of six theoretically-motivated reframing strategies. Then we evaluate a set of state-of-the-art text style transfer models, and conclude by discussing key challenges and directions for future work.
 </div>
 </div>
@@ -93,6 +93,7 @@ Caleb Ziems, **Minzhi Li** (equal contribution), Anthony Zhang, Diyi Yang
 
 
 # 📖 Educations
+- *2024.09 - 2025.09*, Visiting Ph.D., Department of Computer Science, Stanford University
 - *2022.08 - Present*, Ph.D., Department of Computer Science, School of Computing, National University of Singapore, Singapore
 - *2018.08 - 2022.05*, B.S., Business Analytics, School of Computing, National University of Singapore, Singapore
 - *2014.01 - 2017.11*, Dunman High School, Singapore. 
