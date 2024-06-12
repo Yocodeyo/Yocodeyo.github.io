@@ -25,6 +25,7 @@ I like playing piano and table tennis. I also like to travel and explore the wor
 
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉🎉 Our paper (as first author) Social Intelligence Data Infrastructure: Structuring the Present and Navigating the Future was accepted by *ACL 2024 Findings*.
 - *2024.01*: &nbsp;🎉🎉 I received Research Achievement Award awarded by School of Computing!
 - *2023.12*: &nbsp;🎉🎉 I passed my PhD Qualification Exam!
 - *2023.10*: &nbsp;🎉🎉 Our paper (as first author) CoAnnotating: Uncertainty-Guided Work Allocation between Human and Large Language Models for Data Annotation was accepted by *EMNLP 2023 Main Conference*.
@@ -36,14 +37,26 @@ I like playing piano and table tennis. I also like to travel and explore the wor
 
 
 ## 🎙 First (Co-)Author
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/07.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/08.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**(3)**  [Social Intelligence Data Infrastructure: Structuring the Present and Navigating the Future](https://arxiv.org/abs/2403.14659)
+
+**Minzhi Li**, Weiyan Shi, Caleb Ziems, Diyi Yang
+
+[<strong>*ACL 2024*</strong>](https://arxiv.org/abs/2403.14659) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
+
+- we build a Social AI Data Infrastructure, which consists of a comprehensive social AI taxonomy and a data library of 480 NLP datasets. Our infrastructure allows us to analyze existing dataset efforts, and also evaluate language models' performance in different social intelligence aspects. Our analyses demonstrate its utility in enabling a thorough understanding of current data landscape and providing a holistic perspective on potential directions for future dataset development.
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/07.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **(2)**  [CoAnnotating: Uncertainty-Guided Work Allocation between Human and Large Language Models for Data Annotation](https://arxiv.org/abs/2310.15638)
 
-**Minzhi Li**, Taiwei Shi, Caleb Ziems, Min-Yen Kan, Nancy F. Chen, Zhengyuan Liu, Diyi Yang,*
+**Minzhi Li**, Taiwei Shi, Caleb Ziems, Min-Yen Kan, Nancy F. Chen, Zhengyuan Liu, Diyi Yang
 
-[<strong>*EMNLP Main Conference*</strong>](https://arxiv.org/abs/2310.15638) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
+[<strong>*EMNLP 2023*</strong>](https://arxiv.org/abs/2310.15638) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
 
 - This work propose CoAnnotating, a novel paradigm for Human-LLM co-annotation of unstructured texts at scale. Under this framework, we utilize uncertainty to estimate LLMs' annotation capability. Our empirical study shows CoAnnotating to be an effective means to allocate work from results on different datasets, with up to 21% performance improvement over random baseline.
 </div>
@@ -56,7 +69,7 @@ I like playing piano and table tennis. I also like to travel and explore the wor
 
 Caleb Ziems, **Minzhi Li** (equal contribution), Anthony Zhang, Diyi Yang
 
-[<strong>*ACL 2022 Main Conference*</strong>](https://arxiv.org/abs/2204.02952) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
+[<strong>*ACL 2022*</strong>](https://arxiv.org/abs/2204.02952) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
 - We introduce a large-scale benchmark, Positive Psychology Frames, with 8,349 sentence pairs and 12,755 structured annotations to explain positive reframing in terms of six theoretically-motivated reframing strategies. Then we evaluate a set of state-of-the-art text style transfer models, and conclude by discussing key challenges and directions for future work.
 </div>
 </div>
@@ -65,7 +78,7 @@ Caleb Ziems, **Minzhi Li** (equal contribution), Anthony Zhang, Diyi Yang
 
 
 ## 🎙 Co-author
-- **(1)** Ruochen Zhao, Hailin Chen, Weishi Wang, Fangkai Jiao, Xuan Long Do, Chengwei Qin, Bosheng Ding, Xiaobao Guo, Minzhi Li, Xingxuan Li, Shafiq Joty, 2023. Retrieving Multimodal Information for Augmented Generation: A Survey. EMNLP Findings (2023): 2207397.
+- **(1)** Ruochen Zhao, Hailin Chen, Weishi Wang, Fangkai Jiao, Xuan Long Do, Chengwei Qin, Bosheng Ding, Xiaobao Guo, Minzhi Li, Xingxuan Li, Shafiq Joty, 2023. Retrieving Multimodal Information for Augmented Generation: A Survey. EMNLP 2023: 2207397.
 
 
 
