@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student in the National University of Singapore (NUS) WING lab with research interests in human-centered and socially aware Natural Language Processing. I am fortunately supervised by [**Prof Kan Min-Yen**](https://www.comp.nus.edu.sg/~kanmy/) from NUS, [**Dr Nancy F. Chen**](https://www.a-star.edu.sg/i2r/i2r-profiles/nancychen) from ASTAR, and [**Prof Shafiq Joty**](https://raihanjoty.github.io/) from Salesforce. I am also having great collaborations with SALT Lab under the advice of [**Prof Diyi Yang**](https://cs.stanford.edu/~diyiy/) from Stanford University. I graduated with a bachelor in NUS.
+I am currently visiting SALT Lab and Stanford NLP Group! I am pursuing my PhD in Computer Science at the National University of Singapore (NUS) WING lab with research interests in human-centered and socially aware Natural Language Processing. I am fortunately supervised by [**Prof Kan Min-Yen**](https://www.comp.nus.edu.sg/~kanmy/) from NUS, [**Dr Nancy F. Chen**](https://www.a-star.edu.sg/i2r/i2r-profiles/nancychen) from ASTAR, and [**Prof Shafiq Joty**](https://raihanjoty.github.io/) from Salesforce. I am also having great collaborations with SALT Lab under the advice of [**Prof Diyi Yang**](https://cs.stanford.edu/~diyiy/) from Stanford University. I graduated with a bachelor in NUS.
 
 My research interests include **(1) Human-Centric and Data-Centric NLP**, **(2) NLP for Social Good** and **（3）Socially Aware NLP System**. I have published papers at the top tier NLP conferences like ACL and EMNLP.
 
-I like playing piano and table tennis. I also like to travel and explore the world/good food!😋 Recently I'm learning magic tricks🎩
+I like playing piano, table tennis and badminton. I also like to travel and explore the world/good food!😋 I am learning golf recently🎩
 
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉🎉 I started my visit at Stanford!
 - *2024.05*: &nbsp;🎉🎉 Our paper (as first author) Social Intelligence Data Infrastructure: Structuring the Present and Navigating the Future was accepted by *ACL 2024 Findings*.
 - *2024.01*: &nbsp;🎉🎉 I received Research Achievement Award awarded by School of Computing!
 - *2023.12*: &nbsp;🎉🎉 I passed my PhD Qualification Exam!
