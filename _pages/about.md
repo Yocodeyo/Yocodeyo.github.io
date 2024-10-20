@@ -21,11 +21,11 @@ I am currently visiting SALT Lab and Stanford NLP Group! I am pursuing my PhD in
 
 My research interests include **(1) Human-Centric and Data-Centric NLP**, **(2) NLP for Social Good** and **（3）Socially Aware NLP System**. I have published papers at the top tier NLP conferences like ACL and EMNLP.
 
-I like playing piano, table tennis and badminton. I also like to travel and explore the world/good food!😋 I am learning golf recently🎩
+I like playing piano🎹, table tennis🏓 and badminton🏸. I enjoy listening to music and watching talk shows because they deliver inspiration and positive energy through words and rhythms. I also like traveling and exploring the world/good food!😋 I am learning golf recently⛳️
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 I started my visit at Stanford!
+- *2024.09*: &nbsp;🎉🎉 I started my visit at Stanford!
 - *2024.05*: &nbsp;🎉🎉 Our paper (as first author) Social Intelligence Data Infrastructure: Structuring the Present and Navigating the Future was accepted by *ACL 2024 Findings*.
 - *2024.01*: &nbsp;🎉🎉 I received Research Achievement Award awarded by School of Computing!
 - *2023.12*: &nbsp;🎉🎉 I passed my PhD Qualification Exam!
