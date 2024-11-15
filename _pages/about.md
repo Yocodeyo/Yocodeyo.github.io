@@ -25,6 +25,7 @@ I like playing piano🎹, table tennis🏓 and badminton🏸. I enjoy listening 
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 I received Google PhD Fellowship (NLP direction)!
 - *2024.09*: &nbsp;🎉🎉 I started my visit at Stanford!
 - *2024.05*: &nbsp;🎉🎉 Our paper (as first author) Social Intelligence Data Infrastructure: Structuring the Present and Navigating the Future was accepted by *ACL 2024 Findings*.
 - *2024.01*: &nbsp;🎉🎉 I received Research Achievement Award awarded by School of Computing!
@@ -80,11 +81,12 @@ Caleb Ziems, **Minzhi Li** (equal contribution), Anthony Zhang, Diyi Yang
 
 
 ## 🎙 Co-author
-- **(1)** Ruochen Zhao, Hailin Chen, Weishi Wang, Fangkai Jiao, Xuan Long Do, Chengwei Qin, Bosheng Ding, Xiaobao Guo, Minzhi Li, Xingxuan Li, Shafiq Joty, 2023. Retrieving Multimodal Information for Augmented Generation: A Survey. EMNLP Findings (2023): 2207397.
+- **(1)** Ruochen Zhao, Hailin Chen, Weishi Wang, Fangkai Jiao, Xuan Long Do, Chengwei Qin, Bosheng Ding, Xiaobao Guo, Minzhi Li, Xingxuan Li, Shafiq Joty, 2023. Retrieving Multimodal Information for Augmented Generation: A Survey. EMNLP Findings (2023): 2207397. [link](https://arxiv.org/abs/2303.10868)
 
 
 
 # 🎖 Honors and Awards
+- *2024.11* Google PhD Fellowship (NLP Direction)
 - *2024.01* Research Achievement Award
 - *2022.08* ACIS Scholarship Award
 - *2022.01* 21/22 S1 Dean's List Award
