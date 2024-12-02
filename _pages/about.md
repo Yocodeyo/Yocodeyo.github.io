@@ -25,6 +25,7 @@ I like playing piano🎹, table tennis🏓 and badminton🏸. I enjoy listening 
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 Our paper (as first author) DnA-Eval: Enhancing Large Language Model Evaluation through Decomposition and Aggregation was accepted by *COLING 2025*.
 - *2024.11*: &nbsp;🎉🎉 I received Google PhD Fellowship (NLP direction)!
 - *2024.09*: &nbsp;🎉🎉 I started my visit at Stanford!
 - *2024.05*: &nbsp;🎉🎉 Our paper (as first author) Social Intelligence Data Infrastructure: Structuring the Present and Navigating the Future was accepted by *ACL 2024 Findings*.
@@ -39,10 +40,23 @@ I like playing piano🎹, table tennis🏓 and badminton🏸. I enjoy listening 
 
 
 ## 🎙 First (Co-)Author
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/09.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**(4)**  [DnA-Eval: Enhancing Large Language Model Evaluation through Decomposition and Aggregation](https://arxiv.org/abs/2405.15329)
+
+**Minzhi Li**, Zhengyuan Liu, Shumin Deng, Shafiq Joty, Nancy F Chen, Min-Yen Kan
+
+[<strong>*COLING 2025*</strong>](https://arxiv.org/abs/2405.15329) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
+
+- We propose Decompose and Aggregate, which breaks down the evaluation process into different stages based on pedagogical practices. Our experiments illustrate that it not only provides a more interpretable window for how well LLMs evaluate, but also leads to improvements up to 39.6% for different LLMs on a variety of meta-evaluation benchmarks.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/08.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**(2)**  [Social Intelligence Data Infrastructure: Structuring the Present and Navigating the Future](https://arxiv.org/abs/2403.14659)
+**(3)**  [Social Intelligence Data Infrastructure: Structuring the Present and Navigating the Future](https://arxiv.org/abs/2403.14659)
 
 **Minzhi Li**, Weiyan Shi, Caleb Ziems, Diyi Yang
 
