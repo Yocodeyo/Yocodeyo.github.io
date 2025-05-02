@@ -21,7 +21,7 @@ I am currently visiting SALT Lab and Stanford NLP Group! I am pursuing my PhD in
 
 My research interests include **(1) Human-Centric and Data-Centric NLP**, **(2) NLP for Social Good** and **（3）Socially Aware NLP System**. I have published papers at the top tier NLP conferences like ACL and EMNLP.
 
-I like playing piano🎹, table tennis🏓 and badminton🏸. I enjoy listening to music and watching talk shows because they deliver inspiration and positive energy through words and rhythms. I also like traveling and exploring the world/good food!😋 I am learning golf recently⛳️
+I like playing piano🎹, table tennis🏓 and badminton🏸. I enjoy listening to music and watching talk shows because they deliver inspiration and positive energy through words and rhythms. I also like traveling and exploring the world/good food!😋
 
 
 # 🔥 News
