@@ -40,7 +40,7 @@ I like playing piano🎹, table tennis🏓 and badminton🏸. I enjoy listening 
 
 
 ## 🎙 First (Co-)Author
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/09.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/09.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **(4)**  [DnA-Eval: Enhancing Large Language Model Evaluation through Decomposition and Aggregation](https://arxiv.org/abs/2405.15329)
@@ -53,7 +53,7 @@ I like playing piano🎹, table tennis🏓 and badminton🏸. I enjoy listening 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/08.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/08.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **(3)**  [Social Intelligence Data Infrastructure: Structuring the Present and Navigating the Future](https://arxiv.org/abs/2403.14659)
@@ -79,7 +79,7 @@ I like playing piano🎹, table tennis🏓 and badminton🏸. I enjoy listening 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/06.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/06.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **(1)**  [Inducing Positive Perspectives with Text Reframing](https://arxiv.org/abs/2204.02952)
