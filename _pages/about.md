@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently visiting SALT Lab and Stanford NLP Group! I am pursuing my PhD in Computer Science at the National University of Singapore (NUS) WING lab with research interests in human-centered and socially aware Natural Language Processing. I am fortunately supervised by [**Prof Kan Min-Yen**](https://www.comp.nus.edu.sg/~kanmy/) from NUS, [**Dr Nancy F. Chen**](https://www.a-star.edu.sg/i2r/i2r-profiles/nancychen) from ASTAR, and [**Prof Shafiq Joty**](https://raihanjoty.github.io/) from Salesforce. I am also having great collaborations with SALT Lab under the advice of [**Prof Diyi Yang**](https://cs.stanford.edu/~diyiy/) from Stanford University. I graduated with a bachelor in NUS.
+I am pursuing my PhD in Computer Science at the National University of Singapore (NUS) WING lab with research interests in human-centered and socially aware Natural Language Processing. I am fortunately supervised by [**Prof Kan Min-Yen**](https://www.comp.nus.edu.sg/~kanmy/) from NUS, [**Dr Nancy F. Chen**](https://www.a-star.edu.sg/i2r/i2r-profiles/nancychen) from ASTAR, and [**Prof Shafiq Joty**](https://raihanjoty.github.io/) from Salesforce. I am also having great collaborations with SALT Lab under the advice of [**Prof Diyi Yang**](https://cs.stanford.edu/~diyiy/) from Stanford University. I was a visiting PhD at Stanford SALT Lab and NLP Group. I graduated with a bachelor in NUS.
 
 My research interests include **(1) Human-Centric and Data-Centric NLP**, **(2) NLP for Social Good** and **（3）Socially Aware NLP System**. I have published papers at the top tier NLP conferences like ACL and EMNLP.
 
@@ -25,6 +25,8 @@ I like playing piano🎹, table tennis🏓 and badminton🏸. I enjoy listening 
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Our paper (as first author) Distilling an End-to-End Voice Assistant Without Instruction Training Data was accepted by *ACL 2025*.
+- *2025.05*: &nbsp;🎉🎉 Our paper (as collaborator) Mind the Gap: Static and Interactive Evaluations of Large Audio Models was accepted by *ACL 2025*.
 - *2024.11*: &nbsp;🎉🎉 Our paper (as first author) DnA-Eval: Enhancing Large Language Model Evaluation through Decomposition and Aggregation was accepted by *COLING 2025*.
 - *2024.11*: &nbsp;🎉🎉 I received Google PhD Fellowship (NLP direction)!
 - *2024.09*: &nbsp;🎉🎉 I started my visit at Stanford!
