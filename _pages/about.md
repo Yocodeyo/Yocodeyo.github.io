@@ -25,8 +25,8 @@ I like playing piano🎹, table tennis🏓 and badminton🏸. I enjoy listening 
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Our paper (as first author) Distilling an End-to-End Voice Assistant Without Instruction Training Data was accepted by *ACL 2025*.
-- *2025.05*: &nbsp;🎉🎉 Our paper (as collaborator) Mind the Gap: Static and Interactive Evaluations of Large Audio Models was accepted by *ACL 2025*.
+- *2025.05*: &nbsp;🎉🎉 Our paper (as first author) Mind the Gap: Static and Interactive Evaluations of Large Audio Models was accepted by *ACL 2025*.
+- *2025.05*: &nbsp;🎉🎉 Our paper (as collaborator) Distilling an End-to-End Voice Assistant Without Instruction Training Data was accepted by *ACL 2025*.
 - *2024.11*: &nbsp;🎉🎉 Our paper (as first author) DnA-Eval: Enhancing Large Language Model Evaluation through Decomposition and Aggregation was accepted by *COLING 2025*.
 - *2024.11*: &nbsp;🎉🎉 I received Google PhD Fellowship (NLP direction)!
 - *2024.09*: &nbsp;🎉🎉 I started my visit at Stanford!
@@ -42,16 +42,16 @@ I like playing piano🎹, table tennis🏓 and badminton🏸. I enjoy listening 
 
 
 ## 🎙 First (Co-)Author
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/09.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/10.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**(4)**  [DnA-Eval: Enhancing Large Language Model Evaluation through Decomposition and Aggregation](https://arxiv.org/abs/2405.15329)
+**(5)**  [Mind the Gap: Static and Interactive Evaluations of Large Audio Models](https://arxiv.org/abs/2502.15919)
 
-**Minzhi Li**, Zhengyuan Liu, Shumin Deng, Shafiq Joty, Nancy F Chen, Min-Yen Kan
+**Minzhi Li**, William Barr Held (equal contribution), Michael J Ryan, Kunat Pipatanakul, Potsawee Manakul, Hao Zhu, Diyi Yang
 
-[<strong>*COLING 2025*</strong>](https://arxiv.org/abs/2405.15329) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
+[<strong>*ACL 2025*</strong>](https://arxiv.org/abs/2502.15919) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
 
-- We propose Decompose and Aggregate, which breaks down the evaluation process into different stages based on pedagogical practices. Our experiments illustrate that it not only provides a more interpretable window for how well LLMs evaluate, but also leads to improvements up to 39.6% for different LLMs on a variety of meta-evaluation benchmarks.
+- We introduce an interactive approach to evaluate Large Audio Models (LAMs) and collect 7,500 LAM interactions. We identify primary use cases for audio interfaces, analyze user preference rankings and qualitative feedback to determine which models best align with user needs. We also evaluate how static benchmarks predict interactive performance and reveal a clear need to develop LAM evaluations that better correlate with user preferences.
 </div>
 </div>
 
