@@ -55,6 +55,19 @@ I like playing piano🎹, table tennis🏓 and badminton🏸. I enjoy listening 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/09.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**(4)**  [DnA-Eval: Enhancing Large Language Model Evaluation through Decomposition and Aggregation](https://arxiv.org/abs/2405.15329)
+
+**Minzhi Li**, Zhengyuan Liu, Shumin Deng, Shafiq Joty, Nancy F Chen, Min-Yen Kan
+
+[<strong>*COLING 2025*</strong>](https://arxiv.org/abs/2405.15329) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
+
+- We propose Decompose and Aggregate, which breaks down the evaluation process into different stages based on pedagogical practices. Our experiments illustrate that it not only provides a more interpretable window for how well LLMs evaluate, but also leads to improvements up to 39.6% for different LLMs on a variety of meta-evaluation benchmarks.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/08.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
